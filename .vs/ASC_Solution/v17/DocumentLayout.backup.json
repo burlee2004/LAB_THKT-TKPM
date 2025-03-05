@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\data\\identiytseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\data\\identiytseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\iuniofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\data\\migrations\\20250227084810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\data\\migrations\\20250227084810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\configuration\\applicationsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\configuration\\applicationsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FD8756-1D37-4D43-8CB4-CF5744D5B1E9}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\basetypes\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B801598-C617-4CE7-A8DC-906E9758EC05}|ASC.Utilities\\ASC.Utilities.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B801598-C617-4CE7-A8DC-906E9758EC05}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D5AA5-0803-471B-89E4-A8AEFD2C3387}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564ED60D-F31A-41F6-8279-A7A761ED7A5C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|d:\\ktpm\\ktpmnhl\\asc_solution\\asc_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580F15D1-5CDE-4A87-B1B7-9A8AE6B75D1A}|ASC_Web\\ASC_Web.csproj|solutionrelative:asc_web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC_Web\\appsettings.json",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.json",
+              "RelativeToolTip": "ASC_Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T07:20:39.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentiytSeed.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\IdentiytSeed.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Data\\IdentiytSeed.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\IdentiytSeed.cs",
+              "RelativeToolTip": "ASC_Web\\Data\\IdentiytSeed.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADgv1UAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:16:21.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwFkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:03:23.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:30:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:26:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:46:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Models\\Product.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Models\\Product.cs",
+              "RelativeToolTip": "ASC_Web\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:25:10.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUniOfWork.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUniOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:55:38.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASC_Web\\appsettings.Production.json",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.Production.json",
+              "RelativeToolTip": "ASC_Web\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T07:45:59.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Program.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Program.cs",
+              "RelativeToolTip": "ASC_Web\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvx8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:26:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASC_Web\\appsettings.Development.json",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\appsettings.Development.json",
+              "RelativeToolTip": "ASC_Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T06:28:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationSetting.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Configuration\\ApplicationSetting.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Configuration\\ApplicationSetting.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Configuration\\ApplicationSetting.cs",
+              "RelativeToolTip": "ASC_Web\\Configuration\\ApplicationSetting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:23:48.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC_Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:07:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250227084810_InitialCreate.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\Migrations\\20250227084810_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Data\\Migrations\\20250227084810_InitialCreate.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\Migrations\\20250227084810_InitialCreate.cs",
+              "RelativeToolTip": "ASC_Web\\Data\\Migrations\\20250227084810_InitialCreate.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:48:11.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Data\\IIdentitySeed.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC_Web\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:13:12.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:29:23.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:55:02.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:04:53.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:05:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:01:53.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MasterDataKey.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:01:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Constans.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\Constans.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constans.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\Constans.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constans.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:00:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:59:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuditTracker.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:00:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Books.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Models\\Books.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:01:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Utilities\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Utilities\\Class1.cs",
+              "RelativeToolTip": "ASC.Utilities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:51:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Class1.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Model\\Class1.cs",
+              "RelativeToolTip": "ASC.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:50:55.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC.Business\\Class1.cs",
+              "RelativeToolTip": "ASC.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:50:03.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASC_Web\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASC_Web\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T09:11:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC_Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:40:19.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:30:21.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC_Web\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:52:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Services\\AuthMessageSender.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "ASC_Web\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:52:00.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC_Web\\Services\\ISmsSender.cs",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC_Web\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:52:45.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\KTPM\\KTPMNHL\\ASC_Solution\\ASC_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASC_Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:31:14.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
