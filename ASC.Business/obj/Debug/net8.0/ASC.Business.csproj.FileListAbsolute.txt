@@ -56,3 +56,4 @@ D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Business\obj\Debug\net8.0\ASC.Business
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Business\obj\Debug\net8.0\ASC.Business.sourcelink.json

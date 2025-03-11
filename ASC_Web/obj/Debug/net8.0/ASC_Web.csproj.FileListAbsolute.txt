@@ -648,3 +648,10 @@ D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\obj\Debug\net8.0\refint\ASC_Web.dl
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\obj\Debug\net8.0\ASC_Web.pdb
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\obj\Debug\net8.0\ASC_Web.genruntimeconfig.cache
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\obj\Debug\net8.0\ref\ASC_Web.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\obj\Debug\net8.0\ASC_Web.sourcelink.json
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC_Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll

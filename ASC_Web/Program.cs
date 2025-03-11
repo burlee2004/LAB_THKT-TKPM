@@ -28,6 +28,13 @@ builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 //    .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddOptions();
 builder.Services.Configure<ApplicationSetting>(builder.Configuration.GetSection("Appsetting"));
+builder.Services.AddSession();
+builder.Services.AddDistributedMemoryCache();
+
+
+
+
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
@@ -49,6 +56,8 @@ else
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+app.UseSession();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

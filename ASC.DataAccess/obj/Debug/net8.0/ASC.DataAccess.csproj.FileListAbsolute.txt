@@ -50,3 +50,4 @@ D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAc
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json

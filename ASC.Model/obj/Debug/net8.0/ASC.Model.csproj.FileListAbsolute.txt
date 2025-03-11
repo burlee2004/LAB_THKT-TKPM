@@ -35,3 +35,4 @@ D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
