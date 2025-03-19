@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {}
+    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.DataAccess\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Model\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,11 +116,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.11, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\ASC_Solution\\ASC.Utilities\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -185,7 +185,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
+            "Microsoft.AspNetCore.Session": {
               "target": "Package",
               "version": "[2.3.0, )"
             },

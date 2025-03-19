@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASC.Utilities
-build_property.ProjectDir = D:\TH_TKPM&KT\BaiTapCode\ASC_Solution\ASC.Utilities\
+build_property.ProjectDir = D:\TH_TKPM&KT\Cop\lab4_cop\Lab4\ASC_Solution\ASC.Utilities\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

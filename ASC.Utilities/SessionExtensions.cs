@@ -1,6 +1,10 @@
-﻿using Newtonsoft.Json;
-using Microsoft.AspNetCore.Http; // Thêm dòng này
+﻿using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace ASC.Utilities
 {
@@ -22,7 +26,7 @@ namespace ASC.Utilities
             {
                 return default(T);
             }
-            
         }
     }
+
 }

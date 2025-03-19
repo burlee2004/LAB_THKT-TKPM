@@ -1,55 +1,64 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using System.Linq;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace ASC.Tests.TestUtilities
 {
     public class FakeSession : ISession
     {
-        public bool IsAvailable => true; // Giả lập luôn có sẵn session
-        public string Id { get; } = Guid.NewGuid().ToString();
-        public IEnumerable<string> Keys => sessionFactory.Keys;
+        public bool IsAvailable => throw new NotImplementedException();
+
+        public string Id => throw new NotImplementedException();
+
+        public IEnumerable<string> Keys => throw new NotImplementedException();
 
         private Dictionary<string, byte[]> sessionFactory = new Dictionary<string, byte[]>();
 
         public void Clear()
         {
-            sessionFactory.Clear();
+            throw new NotImplementedException();
         }
 
         public Task CommitAsync(CancellationToken cancellationToken = default)
         {
-            return Task.CompletedTask; // Không làm gì cả, chỉ trả về Task hoàn thành
+            throw new NotImplementedException();
         }
 
         public Task LoadAsync(CancellationToken cancellationToken = default)
         {
-            return Task.CompletedTask; // Không làm gì cả, chỉ trả về Task hoàn thành
+            throw new NotImplementedException();
         }
 
         public void Remove(string key)
         {
-            sessionFactory.Remove(key);
+            throw new NotImplementedException();
         }
 
         public void Set(string key, byte[] value)
         {
-            sessionFactory[key] = value;
+            if (sessionFactory.ContainsKey(key))
+                sessionFactory.Add(key, value);
+            else
+                sessionFactory[key] = value;
         }
 
-        public bool TryGetValue(string key, out byte[] value)
+        public bool TryGetValue(string key, [NotNullWhen(true)] out byte[]? value)
         {
-            return sessionFactory.TryGetValue(key, out value);
+            if (sessionFactory.ContainsKey(key) && sessionFactory[key] != null)
+            {
+                value = sessionFactory[key];
+                return true;
+            }
+            else
+            {
+                value = null;
+                return false;
+            }
         }
-
-
-
-
-
-
-
     }
+
 }
