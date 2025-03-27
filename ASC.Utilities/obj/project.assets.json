@@ -1201,11 +1201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
       "projectName": "ASC.Utilities",
-      "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\obj\\",
+      "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

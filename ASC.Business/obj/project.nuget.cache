@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35Yn+nSqWSk=",
+  "dgSpecHash": "vVEGUU7smUc=",
   "success": true,
-  "projectFilePath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+  "projectFilePath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

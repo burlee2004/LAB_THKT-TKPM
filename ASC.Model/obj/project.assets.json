@@ -2734,11 +2734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
       "projectName": "ASC.Model",
-      "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+      "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\obj\\",
+      "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

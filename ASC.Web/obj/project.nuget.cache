@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ox/fdZxS8I=",
+  "dgSpecHash": "+B+NRpvv45E=",
   "success": true,
-  "projectFilePath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
+  "projectFilePath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

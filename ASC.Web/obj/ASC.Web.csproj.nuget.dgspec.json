@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\ASC.Web.csproj": {}
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj": {}
   },
   "projects": {
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,11 +97,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,14 +211,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -282,14 +282,14 @@
         }
       }
     },
-    "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\ASC.Web.csproj": {
+    "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
+        "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
         "projectName": "ASC.Web",
-        "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
+        "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Web\\obj\\",
+        "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -307,17 +307,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Business\\ASC.Business.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj"
               },
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "D:\\TH_TKPM&KT\\Cop\\lab4_cop\\Lab4\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+              "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }

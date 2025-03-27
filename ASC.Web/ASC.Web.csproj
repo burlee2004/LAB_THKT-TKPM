@@ -34,4 +34,14 @@
     <Folder Include="Areas\ServiceRequests\Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\js\init.js" />
+    <None Include="wwwroot\js\materialize.js" />
+    <None Include="wwwroot\js\materialize.min.js" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+  </ItemGroup>
+
 </Project>
