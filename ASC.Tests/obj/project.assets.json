@@ -14132,11 +14132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Tests\\ASC.Tests.csproj",
+      "projectUniqueName": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Tests\\ASC.Tests.csproj",
       "projectName": "ASC.Tests",
-      "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Tests\\ASC.Tests.csproj",
+      "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Tests\\ASC.Tests.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Tests\\obj\\",
+      "outputPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14154,11 +14154,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Utilities\\ASC.Utilities.csproj"
             },
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Web\\ASC.Web.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Web\\ASC.Web.csproj"
             }
           }
         }

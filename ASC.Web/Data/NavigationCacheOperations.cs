@@ -1,10 +1,10 @@
-﻿using ASC.Web.Models;
+﻿using ASC.Web.Navigation;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 
 namespace ASC.Web.Data
 {
-    public class NavigationCacheOperations : INavigationCacheOperations
+    public class NavigationCacheOperations : InavigationCacheOperations
     {
         private readonly IDistributedCache _cache;
         private readonly string NavigationCacheName = "NavigationCache";
@@ -24,5 +24,4 @@ namespace ASC.Web.Data
             return JsonConvert.DeserializeObject<NavigationMenu>(await _cache.GetStringAsync(NavigationCacheName));
         }
     }
-
 }

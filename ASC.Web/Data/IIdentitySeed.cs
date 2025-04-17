@@ -1,4 +1,4 @@
-﻿using ASC.Web.Configuration;
+﻿using ASC.Solution.Configuration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 

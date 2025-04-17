@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2tZNDkabChQ=",
+  "dgSpecHash": "j8QsU1dNdIQ=",
   "success": true,
-  "projectFilePath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Tests\\ASC.Tests.csproj",
+  "projectFilePath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Tests\\ASC.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,4 +1,4 @@
-using ASC.Utilities;
+﻿using ASC.Utilities;
 using ASC.Web.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -38,7 +38,7 @@ namespace ASC.Web.Areas.Identity.Pages.Account
             var callbackUrl = Url.Page(
                 "/Account/ResetPassword",
                 pageHandler: null,
-                values: new { userId = user.Id, code = encodedCode }, // Sử dụng mã đã mã hóa trong URL
+                values: new { area = "Identity", code = encodedCode, email = user.Email }, // Sử dụng mã đã mã hóa trong URL
                 protocol: Request.Scheme);
 
             // Send Email

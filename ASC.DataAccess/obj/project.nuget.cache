@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Tv4Jn2Fs1k=",
+  "dgSpecHash": "AURZ6F3ePe4=",
   "success": true,
-  "projectFilePath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+  "projectFilePath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.DataAccess\\ASC.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

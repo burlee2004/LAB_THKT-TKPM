@@ -1,12 +1,10 @@
-﻿using ASC.Web.Models;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
+﻿using ASC.Web.Navigation;
 
 namespace ASC.Web.Data
 {
-    public interface INavigationCacheOperations
+    public interface InavigationCacheOperations
     {
         Task<NavigationMenu> GetNavigationCacheAsync();
-
         Task CreateNavigationCacheAsync();
     }
 }

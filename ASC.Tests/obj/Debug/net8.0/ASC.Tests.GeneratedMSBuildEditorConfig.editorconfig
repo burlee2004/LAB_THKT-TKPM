@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASC.Tests
-build_property.ProjectDir = D:\TH_TKPM&KT\BaiTapCode\Lab\ASC_Solution\ASC.Tests\
+build_property.ProjectDir = D:\TH_TKPM&KT\test Clone git và file nôp\Lab4_Update\LAB_THKT-TKPM\ASC.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

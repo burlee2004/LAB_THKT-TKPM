@@ -103,10 +103,9 @@ namespace ASC.Web.Areas.Identity.Pages.Account
             ReturnUrl = returnUrl;
         }
 
-        public async Task<IActionResult> OnPostAsync(string returnUrl = null)
+        public async Task<ActionResult> OnPostAsync(string returnUrl = null)
         {
-            /*returnUrl = returnUrl ?? Url.Content("~/");*/
-
+            //returnUrl = returnUrl ?? Url.Content("/");
             if (ModelState.IsValid)
             {
                 var user = await _userManager.FindByEmailAsync(Input.Email);
@@ -115,7 +114,6 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                     ModelState.AddModelError(string.Empty, "Invalid login attempt.");
                     return Page();
                 }
-
                 var list = await _userManager.GetClaimsAsync(user);
                 var isActive = Boolean.Parse(list.SingleOrDefault(p => p.Type == "IsActive").Value);
                 if (!isActive)
@@ -124,22 +122,23 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                     return Page();
                 }
 
-                var result = await _signInManager.PasswordSignInAsync(user.UserName, Input.Password, Input.RememberMe, lockoutOnFailure: false);
+                var result = await _signInManager.PasswordSignInAsync(user, Input.Password, Input.RememberMe, lockoutOnFailure: false);
                 if (result.Succeeded)
-                    if(result.Succeeded)
+                {
+                    _logger.LogInformation(1, "User logged in.");
+                    if (!string.IsNullOrWhiteSpace(returnUrl))
                     {
-                    _logger.LogInformation("User logged in.");
-                    if(!String.IsNullOrWhiteSpace(returnUrl))
-                            return RedirectToAction(returnUrl);
-                    else 
-                            return RedirectToAction("Dashboard", "Dashboard", new { Area = "ServiceRequests"});
+                        return RedirectToAction(returnUrl);
                     }
-
+                    else
+                    {
+                        return RedirectToAction("Dashboard", "Dashboard", new { Area = "ServiceRequests" });
+                    }
+                }
                 if (result.RequiresTwoFactor)
                 {
-                    return RedirectToPage("./LoginWith2FA", new { ReturnUrl = returnUrl, RememberMe = Input.RememberMe });
+                    return RedirectToPage("./LoginWith2fa", new { ReturnUrl = returnUrl, RememberMe = Input.RememberMe });
                 }
-
                 if (result.IsLockedOut)
                 {
                     _logger.LogWarning("User account locked out.");
@@ -152,6 +151,7 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                 }
             }
 
+            // If we got this far, something failed, redisplay form
             return Page();
         }
     }

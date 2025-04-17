@@ -9086,11 +9086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
+      "projectUniqueName": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Web\\ASC.Web.csproj",
       "projectName": "ASC.Web",
-      "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\ASC.Web.csproj",
+      "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Web\\ASC.Web.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Web\\obj\\",
+      "outputPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9108,17 +9108,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Business\\ASC.Business.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Business\\ASC.Business.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Business\\ASC.Business.csproj"
             },
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.DataAccess\\ASC.DataAccess.csproj"
             },
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Model\\ASC.Model.csproj"
             },
-            "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
-              "projectPath": "D:\\TH_TKPM&KT\\BaiTapCode\\Lab\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+            "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+              "projectPath": "D:\\TH_TKPM&KT\\test Clone git và file nôp\\Lab4_Update\\LAB_THKT-TKPM\\ASC.Utilities\\ASC.Utilities.csproj"
             }
           }
         }

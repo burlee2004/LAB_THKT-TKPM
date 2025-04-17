@@ -1,9 +1,11 @@
-﻿using ASC.DataAccess.Interfaces;
-using ASC.DataAccess;
-using ASC.Web.Configuration;
+﻿using ASC.DataAccess;
+using ASC.Solution.Configuration;
 using ASC.Web.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.Extensions.Options;
 
 namespace ASC.Web.Services
 {
@@ -11,7 +13,7 @@ namespace ASC.Web.Services
     {
         public static IServiceCollection AddConfig(this IServiceCollection services, IConfiguration config)
         {
-            // Add AddDbContext with connectionString to mirage database
+            // Add AddDbContext with connectionString to database
             var connectionString = config.GetConnectionString("DefaultConnection") ??
                 throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 
@@ -21,9 +23,19 @@ namespace ASC.Web.Services
             services.AddOptions(); // IOption
             services.Configure<ApplicationSettings>(config.GetSection("AppSettings"));
 
+            // Add Google Authentication
+            services.AddAuthentication()
+                .AddGoogle(options =>
+                {
+                    IConfigurationSection googleAuthNSection = config.GetSection("Authentication:Google");
+                    options.ClientId = config["Google:Identity:ClientId"];
+                    options.ClientSecret = config["Google:Identity:ClientSecret"];
+                });
+
             return services;
         }
-        // Add service
+
+        // Add services
         public static IServiceCollection AddMyDependencyGroup(this IServiceCollection services)
         {
             // Add ApplicationDbContext
@@ -42,14 +54,13 @@ namespace ASC.Web.Services
             services.AddTransient<ISmsSender, AuthMessageSender>();
             services.AddSingleton<IIdentitySeed, IdentitySeed>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-            
 
             // Add Cache, Session
             services.AddSession();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             services.AddDistributedMemoryCache();
-            services.AddSingleton<INavigationCacheOperations, NavigationCacheOperations>();
+            services.AddSingleton<InavigationCacheOperations, NavigationCacheOperations>();
 
             // Add RazorPages, MVC
             services.AddRazorPages();
@@ -58,6 +69,5 @@ namespace ASC.Web.Services
 
             return services;
         }
-
     }
 }

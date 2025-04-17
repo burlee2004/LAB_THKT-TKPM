@@ -1,10 +1,10 @@
-using ASC.Web.Configuration;
 using ASC.Web.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.CodeAnalysis.Options;
-using Microsoft.Extensions.Options;
 using System.Diagnostics;
+using ASC.Solution.Configuration;
+using Microsoft.Extensions.Options;
 using ASC.Utilities;
+
 namespace ASC.Web.Controllers
 {
     public class HomeController : AnonymousController
@@ -56,5 +56,6 @@ namespace ASC.Web.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }
